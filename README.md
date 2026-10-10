@@ -16,7 +16,7 @@ Physicist and CONICET doctoral fellow (FAMAF-UNC) working with X-ray fluorescenc
 
 | # | Course | Highlights | Status |
 |---|--------|-----------|--------|
-| 01 | [Data Analysis and Visualization](01-analisis-visualizacion/) | Descriptive analysis, conditional probability, confidence intervals, Welch t-tests, power analysis, data communication (salary survey) | ✅ Available |
+| 01 |[Data Analysis and Visualization](diplodatos-2026/01-analisis-visualizacion/) | Descriptive analysis, conditional probability, confidence intervals, Welch t-tests, power analysis, data communication (salary survey) | ✅ Available |
 | 02 | Exploratory Analysis and Data Curation | | 🔜 Coming soon |
 | 03 | Introduction to Machine Learning | | 🔜 Coming soon |
 | 04 | Supervised Learning | | 🔜 Coming soon |
