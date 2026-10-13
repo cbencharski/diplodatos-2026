@@ -1,4 +1,4 @@
-# Data Science Diploma 2026 · Coursework & Portfolio
+# Data Science Diploma 2026 · Coursework 
 
 Coursework from the **Diplomatura en Ciencia de Datos, Aprendizaje Automático y sus Aplicaciones** (FAMAF, Universidad Nacional de Córdoba, 2026 edition; [program site](https://diplodatos.famaf.unc.edu.ar/)).
 
